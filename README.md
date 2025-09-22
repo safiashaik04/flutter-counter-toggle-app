@@ -1,16 +1,36 @@
-# counter_app
+# Counter & Image Toggle App (CW1)
 
-A new Flutter project.
+This Flutter app was developed for **CSC 4360/6370 - Coursework 1**.  
 
-## Getting Started
+## ✨ Features
+- Counter with increment button  
+- Image toggle with fade animation  
+- Light/Dark mode toggle (dynamic theme switching)  
+- Reset button with confirmation + persistent storage using SharedPreferences  
 
-This project is a starting point for a Flutter application.
+The app also **remembers its state** between sessions (counter value and image choice are saved).  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Home Screen
+<img src="screenshots/home.png" width="300">
+
+### Dark Mode
+<img src="screenshots/dark_mode.png" width="300">
+
+### Image Toggle
+<img src="screenshots/toggle.png" width="300">
+
+### Reset Confirmation
+<img src="screenshots/reset.png" width="300">
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone <your-repo-link>.git
+   cd counter_app
