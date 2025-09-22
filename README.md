@@ -14,17 +14,14 @@ The app also **remembers its state** between sessions (counter value and image c
 
 ## 📸 Screenshots
 
-### Home Screen
-<img src="screenshots/home.png" width="300">
 
-### Dark Mode
-<img src="screenshots/dark_mode.png" width="300">
+<img src="screenshots/Screenshot_1758513046.png" width="300">
 
-### Image Toggle
-<img src="screenshots/toggle.png" width="300">
+<img src="screenshots/Screenshot_1758513052.png" width="300">
 
-### Reset Confirmation
-<img src="screenshots/reset.png" width="300">
+<img src="screenshots/Screenshot_1758513057.png" width="300">
+
+<img src="screenshots/Screenshot_1758513070.png" width="300">
 
 ---
 
